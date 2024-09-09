@@ -118,10 +118,10 @@ fibonacci<-function(n){
   return(fibseq[n])
 }
 
-fibonacci(1)
-fibonacci(3)
-fibonacci(5)
 
+# fibonacci(1)
+# fibonacci(3)
+# fibonacci(7)
 ## Q8
 
 n<-1
